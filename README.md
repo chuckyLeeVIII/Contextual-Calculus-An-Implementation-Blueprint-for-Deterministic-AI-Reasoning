@@ -1,3 +1,25 @@
+> [!WARNING]
+> ## ⚠️ PROPRIETARY SOFTWARE — NOT FOR USE ⚠️
+>
+> **This repository and all of its contents are the exclusive intellectual property of chuckyLeeVIII / I-AI-INTEGRATIONS.**
+>
+> **This code, documentation, and all associated materials are strictly proprietary and are provided here for reference and demonstration purposes ONLY.**
+>
+> ### ❌ You MAY NOT:
+> - Use this software, in whole or in part, in any personal, commercial, or academic project
+> - Copy, reproduce, modify, or distribute any portion of this codebase
+> - Reverse-engineer, decompile, or derive works from this material
+> - Deploy this system or any derivative in any environment
+>
+> ### ✅ To Use This Software:
+> A **paid subscription or commercial license** is required. The full Contextual Calculus reasoning package — including the complete algorithm, situational defaults library, and production deployment support — is available for purchase.
+>
+> **Contact for licensing & subscriptions:** [chuckyLeeVIII on GitHub](https://github.com/chuckyLeeVIII)
+>
+> *Unauthorized use constitutes copyright infringement and may be subject to legal action under applicable intellectual property law.*
+
+---
+
 # Contextual Calculus: An Implementation Blueprint for Deterministic AI Reasoning
 
 **Author**: chuckyLeeVIII
